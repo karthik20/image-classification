@@ -1,0 +1,9 @@
+#ignore cache and other training files
+
+.ipynb_checkpoints
+
+__pycache__
+
+cifar-10-batches-py
+preprocess_test.p
+
